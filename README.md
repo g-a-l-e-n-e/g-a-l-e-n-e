@@ -8,7 +8,7 @@ A Senior Product Manager building new decentralized products, ventures and marke
 
 ### Products
 
-Using 15 years' stuctured trading and investment experience and >4 years' blockchain experience to develop new Decentralized Finance (DeFi) and Decentralized Exchange (DEx) products. This includes responsive web apps, decentralized apps (dApps) and analytics products.
+Using 15 years' structured trading and investment experience and >4 years' blockchain experience to develop new Decentralized Finance (DeFi) and Decentralized Exchange (DEx) products. This includes responsive web apps, decentralized apps (dApps) and analytics products.
 
 ### Agile
 
