@@ -20,7 +20,7 @@ Worked in Agile teams for >4 years and hold Professional Agile Leadership and Pr
 
 A [fellowship](https://www.mydigitalfuture.ch/) recipient learning web development at [EPFL Extension School](https://www.extensionschool.ch/). Experience with:
 
-[<img height="50" src="https://github.com/github/explore/blob/master/topics/html/html.png">](https://github.com/topics/html)  [<img height="50" src="https://github.com/github/explore/blob/master/topics/css/css.png">](https://github.com/topics/css)  [<img height="50" src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png">](https://github.com/topics/javascript)  [<img height="50" src="https://github.com/github/explore/blob/master/topics/python/python.png">](https://github.com/topics/python)  [<img height="60" src="https://github.com/github/explore/blob/master/topics/flask/flask.png">](https://github.com/topics/flask)
+[<img height="45" src="assets/html5-brands.svg">](https://github.com/topics/html)  [<img height="45" src="assets/css3-alt-brands.svg">](https://github.com/topics/css)  [<img height="45" src="assets/js-brands.svg">](https://github.com/topics/javascript)  [<img height="45" src="assets/python-brands.svg">](https://github.com/topics/python)
 
 ## Contact
 
