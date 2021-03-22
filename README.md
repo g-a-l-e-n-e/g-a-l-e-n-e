@@ -8,11 +8,11 @@ A Senior Product Manager building new decentralized products, ventures and marke
 
 ### Products
 
-Using 15 years' structured trading and investment experience and >4 years' blockchain experience to develop new Decentralized Finance (DeFi) and Decentralized Exchange (DEx) products. This includes responsive web apps, decentralized apps (dApps) and analytics products.
+Using 15 years' structured trading and investment experience and 5+ years' blockchain experience to develop new Decentralized Finance (DeFi) and Decentralized Exchange (DEx) products. This includes responsive web apps, decentralized apps (dApps) and blockchain analytics products.
 
 ### Agile
 
-Worked in Agile teams for >4 years and hold Professional Agile Leadership and Professional Scrum Product Owner certifications from Scrum.org:
+Worked in distributed and Agile teams for 5+ years and hold Professional Agile Leadership and Professional Scrum Product Owner certifications from Scrum.org:
 
 [<img height="60" src="assets/PSPO.png">](https://www.scrum.org/certificates/400386)   [<img height="60" src="assets/PAL.png">](https://www.scrum.org/certificates/424526)
 
